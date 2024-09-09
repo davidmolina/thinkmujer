@@ -1,13 +1,14 @@
-Grayscale Jekyll theme
-=========================
+# thinkmujer.co
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+Repo for [thinkmujer.co](thinkmujer.co), a mujeres professional development company founded by entrepreneur Edith Quiroz. Built using Jekyll, Netlify, iTerm2 and Atom.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+## Deploying to GitHub
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+- bundle exec jekyll build
+- git add .
+- git commit -am "short description"
+- git push -u main master:main
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+## License
+
+This is [MIT](LICENSE) with no added caveats.
