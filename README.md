@@ -1,6 +1,6 @@
 # thinkmujer.co
 
-Repo for [thinkmujer.co](thinkmujer.co), a mujeres professional development company founded by entrepreneur Edith Quiroz. Built using Jekyll, Netlify, iTerm2 and Atom.
+Repo for [thinkmujer.co](thinkmujer.co), a mujeres professional development company founded by entrepreneur Edith Quiroz. Built using Jekyll, Netlify, iTerm2 and VS Code.
 
 ## Deploying to GitHub
 
